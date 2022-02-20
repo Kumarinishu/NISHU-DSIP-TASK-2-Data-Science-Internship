@@ -10,9 +10,9 @@
 
 **Code Editor:** VS Code
 
-  Copyright (c) 2022 Nishu Kumari
-
-**Let's connect with me on GitHub!!!!
+   Copyright (c) 2022 Nishu Kumari
+  
+**Let's connect with me on GitHub!!!!**
   
   If you have any Queries or Suggestions, feel free to reach out to me:))
   
