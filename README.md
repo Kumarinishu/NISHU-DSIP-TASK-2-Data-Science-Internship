@@ -6,6 +6,8 @@
 
 **Task-2:** Color Detection System
 
+**Dataset:** https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+
 **Technology Used:** Python, Pandas, OpenCV
 
 **Code Editor:** VS Code
